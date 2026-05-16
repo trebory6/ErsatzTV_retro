@@ -1,3 +1,6 @@
+NOTE: This version is an attempt to add a feature to have multiple playlist endpoints with different settings applied to each. So you can have one version of your playout go to modern TVs at 1080p@16:9 and one version of your playouts going out at 565@4:3 for retro TV setups.
+
+
 # ErsatzTV
 
 ErsatzTV lets you transform your media library into a personalized, live TV experience - complete with EPG, channel scheduling, and seamless streaming to all your devices. Rediscover your content, your way.
